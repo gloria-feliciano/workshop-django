@@ -1,3 +1,4 @@
+25/04/2026
 virtualenv - para isolar o seu projeto, como se fosse criar várias branches para o mesmo código
 
 MVC
@@ -21,5 +22,15 @@ sqlparse==0.5.5
 
 ```bash
 python3 -m venv .venv
+```
+start do virtualenv
+```bash
+source myvenv/bin/activate
+```
 
-25/04/2026
+```bash
+pip install -r requirement.txt
+```
+
+
+
