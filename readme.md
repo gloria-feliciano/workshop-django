@@ -9,3 +9,5 @@ https://tutorial.djangogirls.org/pt/django_urls/
 
 pdf da aula
 https://vidal.press/_storege/Workshop%20Django%20-%20Primeira%20P%C3%A1gina%20Web%20-%20Oficial.pdf
+
+25/04/2026
